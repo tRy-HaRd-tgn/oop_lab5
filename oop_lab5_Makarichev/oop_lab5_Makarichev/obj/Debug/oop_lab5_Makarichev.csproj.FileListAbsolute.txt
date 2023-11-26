@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\oop_lab5_Makarichev\oop_lab5_Makarichev\bin\Debug\oop_lab5_Makarichev.exe.config
+C:\Users\User\source\repos\oop_lab5_Makarichev\oop_lab5_Makarichev\bin\Debug\oop_lab5_Makarichev.exe
+C:\Users\User\source\repos\oop_lab5_Makarichev\oop_lab5_Makarichev\bin\Debug\oop_lab5_Makarichev.pdb
+C:\Users\User\source\repos\oop_lab5_Makarichev\oop_lab5_Makarichev\obj\Debug\oop_lab5_Makarichev.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\oop_lab5_Makarichev\oop_lab5_Makarichev\obj\Debug\oop_lab5_Makarichev.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\oop_lab5_Makarichev\oop_lab5_Makarichev\obj\Debug\oop_lab5_Makarichev.exe
+C:\Users\User\source\repos\oop_lab5_Makarichev\oop_lab5_Makarichev\obj\Debug\oop_lab5_Makarichev.pdb
